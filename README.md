@@ -33,7 +33,7 @@
   - ソフトウェアエンジニアとして主にサーバサイド API / WebView / batch を担当
 - テレビ番組表サービス ( スマホアプリ / Web サービス ) グロースハック
   - 言語
-    - Java8 / ruby2.x / Node.js12.0 / Shell
+    - Java8 / ruby2.x / Node.js12.0 / shell
   - Web　サーバ
     - Tomcat9 / Unicorn / Nginx
   - フレームワーク
@@ -43,7 +43,7 @@
   - サーバレス関連
     - Docker / ECR / ECS / Lambda / Amazon EventBridge / AWS SAM / GitHub Actions
   - ツール系
-    - Embulk / Terraform / Jenkins / Re:dash / GitHub / Mackerel / Siege
+    - Embulk / Terraform / Jenkins / Redash / GitHub / Mackerel / Siege
 
     
 | サービス名 | デバイス | URL |
